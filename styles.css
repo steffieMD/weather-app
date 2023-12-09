@@ -41,6 +41,8 @@ input[type="submit"] {
   border-radius: 5px;
   background-color: #fffeff;
   margin-top: 40px;
+   min-width: 530px;
+  max-width: 530px;
 }
 
 .date {
